@@ -1,4 +1,4 @@
-# Harvest-Hub-Retail-BI-Analysis-Across-Departments-POWER-BI
+# Harvest-Hub-Retail-POWER-BI-Analysis
 This project delves into key business areas for Harvest Hub Retail Business such as sales trends, customer segmentation, product profitability, and operational insights, aiming to provide actionable strategies for revenue optimization and operational efficiency.
 
 ### Harvest Hub Full BI Analsysis 
